@@ -1,0 +1,13 @@
+D:\Developer\repository\.Net\Agenda\Agenda\Agenda.Repository\bin\Debug\Agenda.Repository.dll
+D:\Developer\repository\.Net\Agenda\Agenda\Agenda.Repository\bin\Debug\Agenda.Repository.pdb
+D:\Developer\repository\.Net\Agenda\Agenda\Agenda.Repository\bin\Debug\Agenda.DAL.dll
+D:\Developer\repository\.Net\Agenda\Agenda\Agenda.Repository\bin\Debug\Agenda.Domain.dll
+D:\Developer\repository\.Net\Agenda\Agenda\Agenda.Repository\bin\Debug\Dapper.dll
+D:\Developer\repository\.Net\Agenda\Agenda\Agenda.Repository\bin\Debug\Agenda.DAL.pdb
+D:\Developer\repository\.Net\Agenda\Agenda\Agenda.Repository\bin\Debug\Agenda.Domain.pdb
+D:\Developer\repository\.Net\Agenda\Agenda\Agenda.Repository\bin\Debug\Dapper.xml
+D:\Developer\repository\.Net\Agenda\Agenda\Agenda.Repository\obj\Debug\Agenda.Repository.csprojAssemblyReference.cache
+D:\Developer\repository\.Net\Agenda\Agenda\Agenda.Repository\obj\Debug\Agenda.Repository.csproj.CoreCompileInputs.cache
+D:\Developer\repository\.Net\Agenda\Agenda\Agenda.Repository\obj\Debug\Agenda.Repository.csproj.CopyComplete
+D:\Developer\repository\.Net\Agenda\Agenda\Agenda.Repository\obj\Debug\Agenda.Repository.dll
+D:\Developer\repository\.Net\Agenda\Agenda\Agenda.Repository\obj\Debug\Agenda.Repository.pdb

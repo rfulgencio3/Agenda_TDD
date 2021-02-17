@@ -1,0 +1,10 @@
+D:\Developer\repository\.Net\Agenda\Agenda\Agenda.UIDesktop\bin\Debug\Agenda.UIDesktop.exe.config
+D:\Developer\repository\.Net\Agenda\Agenda\Agenda.UIDesktop\bin\Debug\Agenda.UIDesktop.exe
+D:\Developer\repository\.Net\Agenda\Agenda\Agenda.UIDesktop\bin\Debug\Agenda.UIDesktop.pdb
+D:\Developer\repository\.Net\Agenda\Agenda\Agenda.UIDesktop\obj\Debug\Agenda.UIDesktop.csprojAssemblyReference.cache
+D:\Developer\repository\.Net\Agenda\Agenda\Agenda.UIDesktop\obj\Debug\Agenda.UIDesktop.Form1.resources
+D:\Developer\repository\.Net\Agenda\Agenda\Agenda.UIDesktop\obj\Debug\Agenda.UIDesktop.Properties.Resources.resources
+D:\Developer\repository\.Net\Agenda\Agenda\Agenda.UIDesktop\obj\Debug\Agenda.UIDesktop.csproj.GenerateResource.cache
+D:\Developer\repository\.Net\Agenda\Agenda\Agenda.UIDesktop\obj\Debug\Agenda.UIDesktop.csproj.CoreCompileInputs.cache
+D:\Developer\repository\.Net\Agenda\Agenda\Agenda.UIDesktop\obj\Debug\Agenda.UIDesktop.exe
+D:\Developer\repository\.Net\Agenda\Agenda\Agenda.UIDesktop\obj\Debug\Agenda.UIDesktop.pdb
